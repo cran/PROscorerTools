@@ -1,4 +1,13 @@
-# PROscorerTools 0.0.2 (2022-03-04)
+# PROscorerTools 0.0.4 (2023-10-17)
+
+* Omitted some overzealous warnings for some of the functions (e.g., `rerange`)
+
+* Tiny change to package overview documentation to align with CRAN policy. 
+
+* Changed lists in package overview documentation to markdown format to fix CRAN note.
+
+
+# PROscorerTools 0.0.2 (2022-03-07)
 
 * Updates to fix CRAN check errors downstream in `PROscorer` package. 
   * `get_dfItemsrev`: edited to (hopefully) avoid CRAN check
